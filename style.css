@@ -120,7 +120,8 @@ footer ul {
 
 footer ul li {
   list-style: none;
-  align-self: flex-end;
+  justify-content: space-between;
+  margin: auto;
 }
 
 footer ul li a {
